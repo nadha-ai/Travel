@@ -416,7 +416,7 @@ select {
   /* ===========static counter numbers====================start==============  */
   #static-counter{
     padding: 6rem 0;
-    background: url("/PROJECT/HTML/IMAGES/about\ section.jpg") no-repeat center center/cover;
+    background: url("../IMAGES/about\ section.jpg") no-repeat center center/cover;
     background-attachment: fixed;
     position: relative;
     z-index: 4;
@@ -515,8 +515,7 @@ select {
 #testimonials{
    padding: 6rem 0;
    width: 100%;
-   background:url("/PROJECT/HTML/IMAGES/PARIS.png") no-repeat center
-   center/cover;
+   background:url("../IMAGES/PARIS.png") no-repeat center center/cover;
    background-attachment: fixed;
 }
 #testimonials .headings{
